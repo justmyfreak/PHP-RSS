@@ -11,7 +11,7 @@ $XML = new XMLParse($config['xml'],$config['perpage']);
 	</head>
 	<body>
 		<div class="header">
-			
+			This is just rss reader
 		</div>
 		<div class="content">
 			
