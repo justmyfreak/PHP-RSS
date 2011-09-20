@@ -11,7 +11,8 @@ $XML = new XMLParse($config['xml'],$config['perpage']);
 	</head>
 	<body>
 		<div class="header">
-			This is just another simple rss reader
+			This is just another simple rss reader.
+			This script will automatically parse RSS feed
 		</div>
 		<div class="content">
 			
