@@ -17,7 +17,7 @@ $XML = new XMLParse($config['xml'],$config['perpage']);
 			
 		</div>
 		<div class="footer">
-			
+			&copy; justmyfreak 2011
 		</div>
 	</body>
 </html>
